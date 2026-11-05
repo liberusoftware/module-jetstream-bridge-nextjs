@@ -1,0 +1,25 @@
+{
+  "repository": "module-jetstream-bridge-nextjs",
+  "capabilityKey": "liberusoftware/jetstream-bridge",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-jetstream-bridge-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/boilerplate/nextjs/jetstream-bridge.md",
+  "presentationPlan": "projects/boilerplate/nextjs/jetstream-bridge.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
